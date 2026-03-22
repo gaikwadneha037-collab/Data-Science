@@ -1,0 +1,9 @@
+streamlit 
+pandas 
+langchain 
+llama3
+ollama
+sqlalchemy 
+python-dotenv
+Numpy
+sqlite3
