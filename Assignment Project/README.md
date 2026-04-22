@@ -60,3 +60,11 @@ RAG Pipeline: Answers pricing questions using verified local JSON data.
 Resilient LLM: Features a safe_llm wrapper with 3x retry logic for production stability.
 
 Data Validation: Uses Regex to verify email formats before "storing" lead data.
+
+https://github.com/user-attachments/assets/14ec3e62-abc9-49b3-a195-d308862beda7
+
+
+
+
+
+
