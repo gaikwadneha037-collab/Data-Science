@@ -1,7 +1,0 @@
-python
-numpy
-pandas
-langraph
-langchain
-ChatGoogleGenerativeAI
-langchain_google_genai 
